@@ -104,3 +104,5 @@ web/.dart_tool/
 # =========================
 app.*.symbols
 app.*.map.json
+
+android/app/google-services.json
